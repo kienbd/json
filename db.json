@@ -16,7 +16,7 @@
           "datasetid": "test",
           "recordid": "5b70e17d09bfa93329e43d7c4c43eac5f539e1cf",
           "fields": {
-            "date": "2021-02-17T11:00:00+00:00",
+            "date": "2021-02-17T11:50:00+00:00",
             "signal": 0,
             "jour": "2021-02-17"
           },
@@ -26,7 +26,27 @@
           "datasetid": "test",
           "recordid": "847aeb1a2d042bb69a8f235319c2c21bb140029a",
           "fields": {
-            "date": "2021-02-17T11:10:00+00:00",
+            "date": "2021-02-17T12:00:00+00:00",
+            "signal": 1,
+            "jour": "2021-02-17"
+          },
+          "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
+        },
+        {
+          "datasetid": "test",
+          "recordid": "847aeb1a2d042bb69a8f235319c2c21bb14axa23",
+          "fields": {
+            "date": "2021-02-17T12:05:00+00:00",
+            "signal": 0,
+            "jour": "2021-02-17"
+          },
+          "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
+        },
+        {
+          "datasetid": "test",
+          "recordid": "847aeb1a2d042bb69a8f235319c2c21bb14axa23",
+          "fields": {
+            "date": "2021-02-17T12:10:00+00:00",
             "signal": 1,
             "jour": "2021-02-17"
           },
