@@ -51,6 +51,26 @@
             "jour": "2021-02-18"
           },
           "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
+        },
+        {
+          "datasetid": "test",
+          "recordid": "847aeb1a2d042bb69a8f235319c2c21bb14axa23",
+          "fields": {
+            "date": "2021-02-18T08:00:00+00:00",
+            "signal": 0,
+            "jour": "2021-02-18"
+          },
+          "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
+        },
+        {
+          "datasetid": "test",
+          "recordid": "847aeb1a2d042bb69a8f235319c2c21bb14axa23",
+          "fields": {
+            "date": "2021-02-18T08:03:00+00:00",
+            "signal": 1,
+            "jour": "2021-02-18"
+          },
+          "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
         }
       ]
     }
