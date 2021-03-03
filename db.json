@@ -101,6 +101,16 @@
             "jour": "2021-02-22"
           },
           "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
+        },
+        {
+          "datasetid": "test",
+          "recordid": "847aeb1a2d042bb69a8f235319c2c21bb12axs98",
+          "fields": {
+            "date": "2021-02-25T12:45:00+00:00",
+            "signal": 1,
+            "jour": "2021-02-22"
+          },
+          "record_timestamp": "2021-01-18T14:21:12.247000+00:00"
         }
       ]
     }
